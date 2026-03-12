@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://licenzionnye-kazino.vercel.app/sitemap.xml
